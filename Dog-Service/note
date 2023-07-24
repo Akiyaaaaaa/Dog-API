@@ -1,0 +1,71 @@
+{
+    "message": [
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10164.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10245.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10328.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10365.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10381.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10575.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_1070.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10761.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10807.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_1000.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10093.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10333.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10414.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10483.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1006.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1055.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1098.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1125.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1129.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1143.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1171.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1207.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1033.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1043.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_105.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1054.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_108.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1080.jpg",
+    ],
+    "status": "success"
+}{
+  "terrier-america" : [
+    "https://images.dog.ceo/breeds/terrier-american/n02093428_10164.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10245.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10328.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10365.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10381.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10575.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_1070.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10761.jpg",
+        "https://images.dog.ceo/breeds/terrier-american/n02093428_10807.jpg"
+  ],
+  "terrier-cairn" : [
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_1000.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10093.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10333.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10414.jpg",
+        "https://images.dog.ceo/breeds/terrier-cairn/n02096177_10483.jpg"
+
+  ],
+  "terrier-dandie" : [
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1006.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1055.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1098.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1125.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1129.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1143.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1171.jpg",
+        "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1207.jpg"
+  ],
+  "terrier-fox" : [
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1033.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1043.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_105.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1054.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_108.jpg",
+        "https://images.dog.ceo/breeds/terrier-fox/n02095314_1080.jpg"
+  ]
+}
